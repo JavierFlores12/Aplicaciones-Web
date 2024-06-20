@@ -22,7 +22,7 @@ const alumno = {
 if(a > b){
     //Estrucutra de control
 }
-for(const x = 1, 1 = i, i++){
+for(const xi= 1; i = 1; i++){
     //Estructura de control
 }
 
