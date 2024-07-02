@@ -1,0 +1,8 @@
+Definición
+Una estructura de control nos permite manejar y tener mas control sobre nuestro codigo y de este modo aplicar una 
+estructura correcta en funcion a ciertas condiciones.
+
+BIFURCACIONES:
+¿Para que sirve?
+La bifurcacion nos permite ir por un camino u otro si se cumple la condicion vamos por un camino y si no se cumple vamos 
+por el otro.
