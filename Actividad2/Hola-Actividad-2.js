@@ -1,1 +1,0 @@
-console.log("Hola Actividad 2")
